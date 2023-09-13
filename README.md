@@ -18,5 +18,5 @@ https://arxiv.org/abs/2306.00637
 https://www.youtube.com/watch?v=ogJsCPqgFMk
 
 ## Output
-
+![Screenshot 2023-09-13 205855](https://github.com/camenduru/Wuerstchen-colab/assets/54370274/f09138e7-c460-4c04-b3a5-97f6a28e9001)
 
