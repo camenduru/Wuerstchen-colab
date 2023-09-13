@@ -10,6 +10,7 @@
 
 ## Main Repo
 https://github.com/dome272/Wuerstchen
+https://huggingface.co/spaces/warp-ai/Wuerstchen/tree/main
 
 ## Paper
 https://arxiv.org/abs/2306.00637
