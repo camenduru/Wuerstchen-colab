@@ -12,7 +12,10 @@
 https://github.com/dome272/Wuerstchen
 
 ## Paper
+https://arxiv.org/abs/2306.00637
 
+## Video
+https://www.youtube.com/watch?v=ogJsCPqgFMk
 
 ## Output
 
